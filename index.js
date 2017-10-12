@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // var deliLine = []
+=======
+var eliLine = []
+>>>>>>> 139d9b47e29660ac7803d46326519d3f57797e52
 
 function takeANumber(deliLine, name) {
   deliLine.push(name)
